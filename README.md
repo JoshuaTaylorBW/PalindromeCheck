@@ -1,0 +1,2 @@
+# PalindromeCheck
+CHECK IF STRING IS A PALINDROME.
